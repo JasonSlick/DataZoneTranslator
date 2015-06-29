@@ -1,0 +1,11 @@
+Available Key Types
+check, date, amount, balance, note
+
+Format
+note check# amount date:note_check_amount_date_F
+ComboBox Description:key order
+
+Another Example
+note check# amount date NewLine:note_check_amount_date_T
+
+In Key Value the last value is T (true) or F (false) on whether to use new line as a key

@@ -1,0 +1,17 @@
+C:\Users\JasonSlick.CYNICINC.000\Documents\Visual Studio 2010\Projects\DZT\bin\Release\DZT.exe.config
+C:\Users\JasonSlick.CYNICINC.000\Documents\Visual Studio 2010\Projects\DZT\bin\Release\DZT.exe
+C:\Users\JasonSlick.CYNICINC.000\Documents\Visual Studio 2010\Projects\DZT\bin\Release\DZT.pdb
+C:\Users\JasonSlick.CYNICINC.000\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.DataZoneForm.resources
+C:\Users\JasonSlick.CYNICINC.000\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.Properties.Resources.resources
+C:\Users\JasonSlick.CYNICINC.000\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.csproj.GenerateResource.Cache
+C:\Users\JasonSlick.CYNICINC.000\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.exe
+C:\Users\JasonSlick.CYNICINC.000\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.pdb
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\bin\Release\DZT.exe.config
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.exe
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.pdb
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\bin\Release\DZT.exe
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\bin\Release\DZT.pdb
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.csprojResolveAssemblyReference.cache
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.DataZoneForm.resources
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.Properties.Resources.resources
+C:\Users\JasonSlick\Documents\Visual Studio 2010\Projects\DZT\obj\Release\DZT.csproj.GenerateResource.Cache

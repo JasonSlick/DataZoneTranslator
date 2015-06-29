@@ -1,0 +1,12 @@
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\bin\Debug\Dio.exe.config
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\bin\Debug\Dio.exe
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\bin\Debug\Dio.pdb
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\obj\Debug\Dio.csprojResolveAssemblyReference.cache
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\obj\Debug\DZT.Form2.resources
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\obj\Debug\DZT.Properties.Resources.resources
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\obj\Debug\Dio.csproj.GenerateResource.Cache
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\obj\Debug\Dio.exe
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\Dio\obj\Debug\Dio.pdb
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\DZT\bin\Debug\Dio.exe.config
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\DZT\obj\Debug\Dio.exe
+C:\Users\Tiko\Documents\Visual Studio 11\Projects\cynic\DZT\obj\Debug\Dio.pdb
